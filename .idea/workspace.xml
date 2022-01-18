@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58bde076-4d88-44a6-8739-f7e685b3649f" name="Changes" comment="" />
+    <list default="true" id="58bde076-4d88-44a6-8739-f7e685b3649f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Redis/docker/redis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/RedisConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/SwaggerConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/controller/RedisController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RammbitMQ/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/src/test/java/com/quan/redis/RedisApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +35,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="23qNwDGR8OwEcTPHLJWCEhXJmzY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,16 +49,24 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jiaha\IdeaProjects\SpringBootDemo" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.quan.redis.config.SwaggerConfig" />
       <recent name="com.example.rammbitmq.consumer" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.RammbitMqApplication">
+  <component name="RunManager" selected="Spring Boot.RedisApplication">
     <configuration name="RammbitMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="RammbitMQ" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rammbitmq.RammbitMqApplication" />
@@ -67,11 +91,22 @@
       <option name="presentableId" value="Default" />
       <updated>1642457895136</updated>
       <workItem from="1642457896482" duration="303000" />
-      <workItem from="1642459973346" duration="4217000" />
+      <workItem from="1642459973346" duration="10769000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
