@@ -88,7 +88,20 @@ fabric.properties
 # modules.xml
 # .idea/misc.xml
 # *.ipr
+**/target/
+/target/
+*/target/*
+.classpath
+.project
+.settings
 
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+*.idea
 # Sonarlint plugin
 # https://plugins.jetbrains.com/plugin/7973-sonarlint
 .idea/**/sonarlint/
