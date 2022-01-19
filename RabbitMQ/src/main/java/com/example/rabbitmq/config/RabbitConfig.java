@@ -1,4 +1,4 @@
-package com.example.rammbitmq.config;
+package com.example.rabbitmq.config;
 
 import org.springframework.amqp.core.*;
 import org.springframework.context.annotation.Bean;

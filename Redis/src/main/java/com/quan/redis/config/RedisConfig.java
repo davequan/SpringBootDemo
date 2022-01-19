@@ -1,4 +1,4 @@
-package com.quan.redis.config.SwaggerConfig;
+package com.quan.redis.config;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cache.CacheManager;

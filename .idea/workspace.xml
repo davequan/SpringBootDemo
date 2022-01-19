@@ -5,18 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58bde076-4d88-44a6-8739-f7e685b3649f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Redis/docker/redis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/RedisConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/SwaggerConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/controller/RedisController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/model/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RammbitMQ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RammbitMQ/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Redis/src/test/java/com/quan/redis/RedisApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/HELP.md" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/HELP.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/docker/rabbitmq.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/docker/rabbitmq.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/RammbitMqApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/RabbitMqApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/config/RabbitConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/config/RabbitConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/config/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/config/SwaggerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/FanoutAConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/FanoutAConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/FanoutBConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/FanoutBConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/FanoutCConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/FanoutCConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/QueueConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/QueueConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/TopicAConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/TopicAConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/TopicBConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/TopicBConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/consumer/TopicCConsumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/consumer/TopicCConsumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/controller/RabbitMqController.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/controller/RabbitMqController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/java/com/example/rammbitmq/producer/RabbitProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/java/com/example/rabbitmq/producer/RabbitProducer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RammbitMQ/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/RabbitMQ/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/RedisConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/RedisConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig/SwaggerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Redis/src/main/java/com/quan/redis/config/SwaggerConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +64,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/spring-security-jwt-guide" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -66,10 +79,17 @@
       <recent name="com.example.rammbitmq.consumer" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.RedisApplication">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SecurityJwtApplication">
     <configuration name="RammbitMqApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="RammbitMQ" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rammbitmq.RammbitMqApplication" />
+      <module name="RabbitMQ" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.rabbitmq.RabbitMqApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -77,6 +97,13 @@
     <configuration name="RedisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="Redis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.quan.redis.RedisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SecurityJwtApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SecurityJWT" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.quan.securityjwt.SecurityJwtApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -91,7 +118,8 @@
       <option name="presentableId" value="Default" />
       <updated>1642457895136</updated>
       <workItem from="1642457896482" duration="303000" />
-      <workItem from="1642459973346" duration="10769000" />
+      <workItem from="1642459973346" duration="14580000" />
+      <workItem from="1642522191647" duration="5132000" />
     </task>
     <servers />
   </component>
@@ -108,5 +136,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

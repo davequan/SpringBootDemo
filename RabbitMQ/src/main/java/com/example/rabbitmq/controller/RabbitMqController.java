@@ -1,6 +1,6 @@
-package com.example.rammbitmq.controller;
+package com.example.rabbitmq.controller;
 
-import com.example.rammbitmq.producer.RabbitProducer;
+import com.example.rabbitmq.producer.RabbitProducer;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

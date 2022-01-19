@@ -1,4 +1,4 @@
-package com.quan.redis.config.SwaggerConfig;
+package com.example.rabbitmq.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
