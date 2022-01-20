@@ -12,6 +12,7 @@
         <module>RabbitMQ</module>
         <module>Redis</module>
         <module>SpringTask</module>
+        <module>Mongodb</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

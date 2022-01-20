@@ -6,6 +6,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/SpringTask/pom.xml" />
+        <option value="$PROJECT_DIR$/Mongodb/pom.xml" />
       </list>
     </option>
   </component>
